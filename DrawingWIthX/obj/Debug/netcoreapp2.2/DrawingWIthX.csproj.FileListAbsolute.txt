@@ -1,0 +1,10 @@
+C:\Users\Boris\Desktop\Exercises\DrawingWIthX\bin\Debug\netcoreapp2.2\DrawingWIthX.deps.json
+C:\Users\Boris\Desktop\Exercises\DrawingWIthX\bin\Debug\netcoreapp2.2\DrawingWIthX.runtimeconfig.json
+C:\Users\Boris\Desktop\Exercises\DrawingWIthX\bin\Debug\netcoreapp2.2\DrawingWIthX.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\Exercises\DrawingWIthX\bin\Debug\netcoreapp2.2\DrawingWIthX.dll
+C:\Users\Boris\Desktop\Exercises\DrawingWIthX\bin\Debug\netcoreapp2.2\DrawingWIthX.pdb
+C:\Users\Boris\Desktop\Exercises\DrawingWIthX\obj\Debug\netcoreapp2.2\DrawingWIthX.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Exercises\DrawingWIthX\obj\Debug\netcoreapp2.2\DrawingWIthX.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Exercises\DrawingWIthX\obj\Debug\netcoreapp2.2\DrawingWIthX.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Exercises\DrawingWIthX\obj\Debug\netcoreapp2.2\DrawingWIthX.dll
+C:\Users\Boris\Desktop\Exercises\DrawingWIthX\obj\Debug\netcoreapp2.2\DrawingWIthX.pdb

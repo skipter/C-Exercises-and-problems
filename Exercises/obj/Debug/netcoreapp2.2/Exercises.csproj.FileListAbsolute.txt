@@ -1,0 +1,11 @@
+C:\Users\Boris\Desktop\Exercises\Exercises\bin\Debug\netcoreapp2.2\Exercises.deps.json
+C:\Users\Boris\Desktop\Exercises\Exercises\bin\Debug\netcoreapp2.2\Exercises.runtimeconfig.json
+C:\Users\Boris\Desktop\Exercises\Exercises\bin\Debug\netcoreapp2.2\Exercises.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\Exercises\Exercises\bin\Debug\netcoreapp2.2\Exercises.dll
+C:\Users\Boris\Desktop\Exercises\Exercises\bin\Debug\netcoreapp2.2\Exercises.pdb
+C:\Users\Boris\Desktop\Exercises\Exercises\obj\Debug\netcoreapp2.2\Exercises.csprojAssemblyReference.cache
+C:\Users\Boris\Desktop\Exercises\Exercises\obj\Debug\netcoreapp2.2\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Exercises\Exercises\obj\Debug\netcoreapp2.2\Exercises.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Exercises\Exercises\obj\Debug\netcoreapp2.2\Exercises.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Exercises\Exercises\obj\Debug\netcoreapp2.2\Exercises.dll
+C:\Users\Boris\Desktop\Exercises\Exercises\obj\Debug\netcoreapp2.2\Exercises.pdb

@@ -1,0 +1,10 @@
+C:\Users\Boris\Desktop\Exercises\MinMaxSum\bin\Debug\netcoreapp2.2\MinMaxSum.deps.json
+C:\Users\Boris\Desktop\Exercises\MinMaxSum\bin\Debug\netcoreapp2.2\MinMaxSum.runtimeconfig.json
+C:\Users\Boris\Desktop\Exercises\MinMaxSum\bin\Debug\netcoreapp2.2\MinMaxSum.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\Exercises\MinMaxSum\bin\Debug\netcoreapp2.2\MinMaxSum.dll
+C:\Users\Boris\Desktop\Exercises\MinMaxSum\bin\Debug\netcoreapp2.2\MinMaxSum.pdb
+C:\Users\Boris\Desktop\Exercises\MinMaxSum\obj\Debug\netcoreapp2.2\MinMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\Exercises\MinMaxSum\obj\Debug\netcoreapp2.2\MinMaxSum.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\Exercises\MinMaxSum\obj\Debug\netcoreapp2.2\MinMaxSum.AssemblyInfo.cs
+C:\Users\Boris\Desktop\Exercises\MinMaxSum\obj\Debug\netcoreapp2.2\MinMaxSum.dll
+C:\Users\Boris\Desktop\Exercises\MinMaxSum\obj\Debug\netcoreapp2.2\MinMaxSum.pdb
