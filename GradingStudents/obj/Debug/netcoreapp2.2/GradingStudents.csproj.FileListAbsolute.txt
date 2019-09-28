@@ -1,0 +1,3 @@
+C:\Users\Boris\Desktop\C-Exercises-and-problems\GradingStudents\obj\Debug\netcoreapp2.2\GradingStudents.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\GradingStudents\obj\Debug\netcoreapp2.2\GradingStudents.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\GradingStudents\obj\Debug\netcoreapp2.2\GradingStudents.AssemblyInfo.cs

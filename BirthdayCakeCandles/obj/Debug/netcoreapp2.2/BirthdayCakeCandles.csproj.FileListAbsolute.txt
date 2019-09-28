@@ -1,0 +1,10 @@
+C:\Users\Boris\Desktop\C-Exercises-and-problems\BirthdayCakeCandles\bin\Debug\netcoreapp2.2\BirthdayCakeCandles.deps.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\BirthdayCakeCandles\bin\Debug\netcoreapp2.2\BirthdayCakeCandles.runtimeconfig.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\BirthdayCakeCandles\bin\Debug\netcoreapp2.2\BirthdayCakeCandles.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\BirthdayCakeCandles\bin\Debug\netcoreapp2.2\BirthdayCakeCandles.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\BirthdayCakeCandles\bin\Debug\netcoreapp2.2\BirthdayCakeCandles.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\BirthdayCakeCandles\obj\Debug\netcoreapp2.2\BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\BirthdayCakeCandles\obj\Debug\netcoreapp2.2\BirthdayCakeCandles.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\BirthdayCakeCandles\obj\Debug\netcoreapp2.2\BirthdayCakeCandles.AssemblyInfo.cs
+C:\Users\Boris\Desktop\C-Exercises-and-problems\BirthdayCakeCandles\obj\Debug\netcoreapp2.2\BirthdayCakeCandles.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\BirthdayCakeCandles\obj\Debug\netcoreapp2.2\BirthdayCakeCandles.pdb

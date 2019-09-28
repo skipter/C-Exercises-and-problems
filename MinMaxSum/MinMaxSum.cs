@@ -1,5 +1,6 @@
 ﻿using System.CodeDom.Compiler;
 using System;
+using System.Linq;
 
 class Solution
 {
@@ -7,18 +8,23 @@ class Solution
     // Complete the miniMaxSum function below.
     static void miniMaxSum(int[] arr)
     {
-        int currentSum = 0;
-        int bestSum = 0;
+        arr = arr.OrderByDescending(c => c).ToArray();
+
+        long bestSum = 0;
+        long bestMinSum = 0;
 
         for (int i = 0; i < arr.Length - 1; i++)
-        {
-            currentSum += arr[i];
-        }
-        for (int i = 1; i < arr.Length; i++)
         {
             bestSum += arr[i];
         }
 
+        arr = arr.OrderBy(c => c).ToArray();
+
+        for (int i = 0; i < arr.Length - 1; i++)
+        {
+            bestMinSum += arr[i];
+        }
+        Console.WriteLine(bestMinSum + " " + bestSum);
     }
 
     static void Main(string[] args)

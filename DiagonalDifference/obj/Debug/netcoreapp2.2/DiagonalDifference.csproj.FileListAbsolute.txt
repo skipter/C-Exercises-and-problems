@@ -1,0 +1,10 @@
+C:\Users\Boris\Desktop\C-Exercises-and-problems\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.AssemblyInfo.cs
+C:\Users\Boris\Desktop\C-Exercises-and-problems\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.deps.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.runtimeconfig.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\DiagonalDifference\bin\Debug\netcoreapp2.2\DiagonalDifference.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\DiagonalDifference\obj\Debug\netcoreapp2.2\DiagonalDifference.pdb

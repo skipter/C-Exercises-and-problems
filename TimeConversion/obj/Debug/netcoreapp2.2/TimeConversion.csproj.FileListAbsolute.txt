@@ -1,0 +1,11 @@
+C:\Users\Boris\Desktop\C-Exercises-and-problems\TimeConversion\bin\Debug\netcoreapp2.2\TimeConversion.deps.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\TimeConversion\bin\Debug\netcoreapp2.2\TimeConversion.runtimeconfig.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\TimeConversion\bin\Debug\netcoreapp2.2\TimeConversion.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\TimeConversion\bin\Debug\netcoreapp2.2\TimeConversion.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\TimeConversion\bin\Debug\netcoreapp2.2\TimeConversion.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\TimeConversion\obj\Debug\netcoreapp2.2\TimeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\TimeConversion\obj\Debug\netcoreapp2.2\TimeConversion.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\TimeConversion\obj\Debug\netcoreapp2.2\TimeConversion.AssemblyInfo.cs
+C:\Users\Boris\Desktop\C-Exercises-and-problems\TimeConversion\obj\Debug\netcoreapp2.2\TimeConversion.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\TimeConversion\obj\Debug\netcoreapp2.2\TimeConversion.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\TimeConversion\obj\Debug\netcoreapp2.2\TimeConversion.csprojAssemblyReference.cache
