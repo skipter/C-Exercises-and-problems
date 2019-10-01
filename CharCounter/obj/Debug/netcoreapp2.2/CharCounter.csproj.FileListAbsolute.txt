@@ -1,0 +1,10 @@
+C:\Users\Boris\Desktop\C-Exercises-and-problems\CharCounter\bin\Debug\netcoreapp2.2\CharCounter.deps.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\CharCounter\bin\Debug\netcoreapp2.2\CharCounter.runtimeconfig.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\CharCounter\bin\Debug\netcoreapp2.2\CharCounter.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\CharCounter\bin\Debug\netcoreapp2.2\CharCounter.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\CharCounter\bin\Debug\netcoreapp2.2\CharCounter.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\CharCounter\obj\Debug\netcoreapp2.2\CharCounter.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\CharCounter\obj\Debug\netcoreapp2.2\CharCounter.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\CharCounter\obj\Debug\netcoreapp2.2\CharCounter.AssemblyInfo.cs
+C:\Users\Boris\Desktop\C-Exercises-and-problems\CharCounter\obj\Debug\netcoreapp2.2\CharCounter.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\CharCounter\obj\Debug\netcoreapp2.2\CharCounter.pdb

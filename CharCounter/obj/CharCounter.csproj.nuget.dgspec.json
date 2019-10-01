@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Boris\\Desktop\\C-Exercises-and-problems\\BirthdayCakeCandles\\BirthdayCakeCandles.csproj": {}
+    "C:\\Users\\Boris\\Desktop\\C-Exercises-and-problems\\CharCounter\\CharCounter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Boris\\Desktop\\C-Exercises-and-problems\\BirthdayCakeCandles\\BirthdayCakeCandles.csproj": {
+    "C:\\Users\\Boris\\Desktop\\C-Exercises-and-problems\\CharCounter\\CharCounter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Boris\\Desktop\\C-Exercises-and-problems\\BirthdayCakeCandles\\BirthdayCakeCandles.csproj",
-        "projectName": "BirthdayCakeCandles",
-        "projectPath": "C:\\Users\\Boris\\Desktop\\C-Exercises-and-problems\\BirthdayCakeCandles\\BirthdayCakeCandles.csproj",
+        "projectUniqueName": "C:\\Users\\Boris\\Desktop\\C-Exercises-and-problems\\CharCounter\\CharCounter.csproj",
+        "projectName": "CharCounter",
+        "projectPath": "C:\\Users\\Boris\\Desktop\\C-Exercises-and-problems\\CharCounter\\CharCounter.csproj",
         "packagesPath": "C:\\Users\\Boris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Boris\\Desktop\\C-Exercises-and-problems\\BirthdayCakeCandles\\obj\\",
+        "outputPath": "C:\\Users\\Boris\\Desktop\\C-Exercises-and-problems\\CharCounter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -31,11 +31,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
-            "projectReferences": {
-              "C:\\Users\\Boris\\Desktop\\C-Exercises-and-problems\\TestClassLibrary1\\TestClassLibrary1.csproj": {
-                "projectPath": "C:\\Users\\Boris\\Desktop\\C-Exercises-and-problems\\TestClassLibrary1\\TestClassLibrary1.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
