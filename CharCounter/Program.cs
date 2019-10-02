@@ -7,11 +7,11 @@ namespace CharCounter
         static void Main(string[] args)
         {
 
-            string input = Console.ReadLine();
+            var input = Console.ReadLine().Split();
             long charCounter = 0;
-            for (int i = 0; i < input.Length; i++)
+            foreach (var token in input)
             {
-                charCounter++;
+                charCounter += token.Length;
             }
             Console.WriteLine(charCounter);
         }

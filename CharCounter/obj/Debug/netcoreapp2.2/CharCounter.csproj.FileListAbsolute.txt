@@ -8,3 +8,4 @@ C:\Users\Boris\Desktop\C-Exercises-and-problems\CharCounter\obj\Debug\netcoreapp
 C:\Users\Boris\Desktop\C-Exercises-and-problems\CharCounter\obj\Debug\netcoreapp2.2\CharCounter.AssemblyInfo.cs
 C:\Users\Boris\Desktop\C-Exercises-and-problems\CharCounter\obj\Debug\netcoreapp2.2\CharCounter.dll
 C:\Users\Boris\Desktop\C-Exercises-and-problems\CharCounter\obj\Debug\netcoreapp2.2\CharCounter.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\CharCounter\obj\Debug\netcoreapp2.2\CharCounter.csprojAssemblyReference.cache
