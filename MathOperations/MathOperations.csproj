@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NumberOperations\NumberOperationsLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="NumberOperationsLibrary">
+      <HintPath>..\NumberOperations\obj\Debug\netstandard2.0\NumberOperationsLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

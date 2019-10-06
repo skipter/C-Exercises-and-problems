@@ -1,0 +1,11 @@
+C:\Users\Boris\Desktop\C-Exercises-and-problems\MathPlus\bin\Debug\netcoreapp2.2\MathPlus.deps.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\MathPlus\bin\Debug\netcoreapp2.2\MathPlus.runtimeconfig.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\MathPlus\bin\Debug\netcoreapp2.2\MathPlus.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\MathPlus\bin\Debug\netcoreapp2.2\MathPlus.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\MathPlus\bin\Debug\netcoreapp2.2\MathPlus.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\MathPlus\obj\Debug\netcoreapp2.2\MathPlus.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\MathPlus\obj\Debug\netcoreapp2.2\MathPlus.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\MathPlus\obj\Debug\netcoreapp2.2\MathPlus.AssemblyInfo.cs
+C:\Users\Boris\Desktop\C-Exercises-and-problems\MathPlus\obj\Debug\netcoreapp2.2\MathPlus.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\MathPlus\obj\Debug\netcoreapp2.2\MathPlus.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\MathPlus\obj\Debug\netcoreapp2.2\MathPlus.csprojAssemblyReference.cache

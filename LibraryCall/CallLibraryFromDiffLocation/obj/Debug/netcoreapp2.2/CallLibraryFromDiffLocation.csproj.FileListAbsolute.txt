@@ -1,0 +1,14 @@
+C:\Users\Boris\Desktop\C-Exercises-and-problems\LibraryCall\CallLibraryFromDiffLocation\bin\Debug\netcoreapp2.2\CallLibraryFromDiffLocation.deps.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\LibraryCall\CallLibraryFromDiffLocation\bin\Debug\netcoreapp2.2\CallLibraryFromDiffLocation.runtimeconfig.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\LibraryCall\CallLibraryFromDiffLocation\bin\Debug\netcoreapp2.2\CallLibraryFromDiffLocation.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\LibraryCall\CallLibraryFromDiffLocation\bin\Debug\netcoreapp2.2\CallLibraryFromDiffLocation.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\LibraryCall\CallLibraryFromDiffLocation\bin\Debug\netcoreapp2.2\CallLibraryFromDiffLocation.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\LibraryCall\CallLibraryFromDiffLocation\bin\Debug\netcoreapp2.2\NumberOperationsLibrary.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\LibraryCall\CallLibraryFromDiffLocation\bin\Debug\netcoreapp2.2\NumberOperationsLibrary.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\LibraryCall\CallLibraryFromDiffLocation\obj\Debug\netcoreapp2.2\CallLibraryFromDiffLocation.csprojAssemblyReference.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\LibraryCall\CallLibraryFromDiffLocation\obj\Debug\netcoreapp2.2\CallLibraryFromDiffLocation.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\LibraryCall\CallLibraryFromDiffLocation\obj\Debug\netcoreapp2.2\CallLibraryFromDiffLocation.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\LibraryCall\CallLibraryFromDiffLocation\obj\Debug\netcoreapp2.2\CallLibraryFromDiffLocation.AssemblyInfo.cs
+C:\Users\Boris\Desktop\C-Exercises-and-problems\LibraryCall\CallLibraryFromDiffLocation\obj\Debug\netcoreapp2.2\CallLibraryFromDiffLocation.csproj.CopyComplete
+C:\Users\Boris\Desktop\C-Exercises-and-problems\LibraryCall\CallLibraryFromDiffLocation\obj\Debug\netcoreapp2.2\CallLibraryFromDiffLocation.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\LibraryCall\CallLibraryFromDiffLocation\obj\Debug\netcoreapp2.2\CallLibraryFromDiffLocation.pdb

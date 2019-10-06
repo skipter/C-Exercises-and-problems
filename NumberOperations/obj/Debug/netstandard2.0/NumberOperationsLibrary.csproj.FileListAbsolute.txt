@@ -1,0 +1,9 @@
+C:\Users\Boris\Desktop\C-Exercises-and-problems\NumberOperations\bin\Debug\netstandard2.0\NumberOperationsLibrary.deps.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\NumberOperations\bin\Debug\netstandard2.0\NumberOperationsLibrary.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\NumberOperations\bin\Debug\netstandard2.0\NumberOperationsLibrary.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\NumberOperations\obj\Debug\netstandard2.0\NumberOperationsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\NumberOperations\obj\Debug\netstandard2.0\NumberOperationsLibrary.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\NumberOperations\obj\Debug\netstandard2.0\NumberOperationsLibrary.AssemblyInfo.cs
+C:\Users\Boris\Desktop\C-Exercises-and-problems\NumberOperations\obj\Debug\netstandard2.0\NumberOperationsLibrary.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\NumberOperations\obj\Debug\netstandard2.0\NumberOperationsLibrary.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\NumberOperations\obj\Debug\netstandard2.0\NumberOperationsLibrary.csprojAssemblyReference.cache
