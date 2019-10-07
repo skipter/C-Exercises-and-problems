@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using NumberOperationsLibrary;
 
 namespace CallLibraryFromDiffLocation
@@ -27,6 +28,8 @@ namespace CallLibraryFromDiffLocation
             //Multiply method a * b
             int resultMulty = Operations.Multiply(a, b);
             Print(resultMulty);
+
+            //List<int> nums = Operations.IntegersSortList();
 
 
         }

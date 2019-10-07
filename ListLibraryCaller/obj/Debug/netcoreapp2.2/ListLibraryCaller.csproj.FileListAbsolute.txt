@@ -1,0 +1,16 @@
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\obj\Debug\netcoreapp2.2\ListLibraryCaller.csprojAssemblyReference.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\obj\Debug\netcoreapp2.2\ListLibraryCaller.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\obj\Debug\netcoreapp2.2\ListLibraryCaller.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\obj\Debug\netcoreapp2.2\ListLibraryCaller.AssemblyInfo.cs
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\bin\Debug\netcoreapp2.2\ListLibraryCaller.deps.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\bin\Debug\netcoreapp2.2\ListLibraryCaller.runtimeconfig.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\bin\Debug\netcoreapp2.2\ListLibraryCaller.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\bin\Debug\netcoreapp2.2\ListLibraryCaller.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\bin\Debug\netcoreapp2.2\ListLibraryCaller.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\bin\Debug\netcoreapp2.2\MathOperations.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\bin\Debug\netcoreapp2.2\NumberOperationsLibrary.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\bin\Debug\netcoreapp2.2\MathOperations.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\bin\Debug\netcoreapp2.2\NumberOperationsLibrary.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\obj\Debug\netcoreapp2.2\ListLibraryCaller.csproj.CopyComplete
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\obj\Debug\netcoreapp2.2\ListLibraryCaller.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\ListLibraryCaller\obj\Debug\netcoreapp2.2\ListLibraryCaller.pdb

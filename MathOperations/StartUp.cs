@@ -12,16 +12,16 @@ namespace MathOperations
             int thurdNum = int.Parse(Console.ReadLine());
 
 
-            int resultDevour = NumberOperationsLibrary.Operations.Devour(firstNum, thurdNum);
+            int resultDevour = Operations.Devour(firstNum, thurdNum);
             Console.WriteLine(resultDevour);
 
-            int resultPlus = NumberOperationsLibrary.Operations.Devour(firstNum, thurdNum);
+            int resultPlus = Operations.Devour(firstNum, thurdNum);
             Console.WriteLine(resultPlus);
 
-            int resultMinus = NumberOperationsLibrary.Operations.Devour(firstNum, thurdNum);
+            int resultMinus = Operations.Devour(firstNum, thurdNum);
             Console.WriteLine(resultMinus);
 
-            int resultMulty = NumberOperationsLibrary.Operations.Devour(firstNum, thurdNum);
+            int resultMulty = Operations.Devour(firstNum, thurdNum);
             Console.WriteLine(resultMulty);
 
 

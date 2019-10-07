@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace NumberOperationsLibrary
 {
@@ -26,6 +28,13 @@ namespace NumberOperationsLibrary
         {
             int result = a / b;
             return result;
+        }
+
+        public static List<int> IntegersSortList (List<int> numbers)
+        {
+            numbers.Sort();
+
+            return numbers;
         }
     }
 }
