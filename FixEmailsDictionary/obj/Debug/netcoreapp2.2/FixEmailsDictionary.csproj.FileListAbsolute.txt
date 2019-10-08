@@ -1,0 +1,11 @@
+C:\Users\Boris\Desktop\C-Exercises-and-problems\FixEmailsDictionary\bin\Debug\netcoreapp2.2\FixEmailsDictionary.deps.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\FixEmailsDictionary\bin\Debug\netcoreapp2.2\FixEmailsDictionary.runtimeconfig.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\FixEmailsDictionary\bin\Debug\netcoreapp2.2\FixEmailsDictionary.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\C-Exercises-and-problems\FixEmailsDictionary\bin\Debug\netcoreapp2.2\FixEmailsDictionary.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\FixEmailsDictionary\bin\Debug\netcoreapp2.2\FixEmailsDictionary.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\FixEmailsDictionary\obj\Debug\netcoreapp2.2\FixEmailsDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\FixEmailsDictionary\obj\Debug\netcoreapp2.2\FixEmailsDictionary.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\C-Exercises-and-problems\FixEmailsDictionary\obj\Debug\netcoreapp2.2\FixEmailsDictionary.AssemblyInfo.cs
+C:\Users\Boris\Desktop\C-Exercises-and-problems\FixEmailsDictionary\obj\Debug\netcoreapp2.2\FixEmailsDictionary.dll
+C:\Users\Boris\Desktop\C-Exercises-and-problems\FixEmailsDictionary\obj\Debug\netcoreapp2.2\FixEmailsDictionary.pdb
+C:\Users\Boris\Desktop\C-Exercises-and-problems\FixEmailsDictionary\obj\Debug\netcoreapp2.2\FixEmailsDictionary.csprojAssemblyReference.cache
